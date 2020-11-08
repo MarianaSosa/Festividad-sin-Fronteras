@@ -1,4 +1,4 @@
-# Festividad-sin-Fronteras 
+# Festividad-sin-Fronteras 🎇🎉
 
 ## Descripción:
 Este es un proyecto para dar a conocer la festividad del día de muertos a más personas y países a través de una página web, realidad aumentada, un bot y más.
