@@ -40,5 +40,5 @@ Sigue los siguientes pasos para usar el filtro de catrina de nuestra página:
 
 
 ## Integrantes:
-  
+  Eldher Gutierrez: viajero
   
