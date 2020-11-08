@@ -40,5 +40,9 @@ Sigue los siguientes pasos para usar el filtro de catrina de nuestra página:
 
 
 ## Integrantes:
-  Eldher Gutierrez: viajero
+  Eldher Gutierrez: viajero25181@innovaccion.mx
+  Andrea Chávez: viajero25162@innovaccion.mx
+  Mariana Sosa: viajero30036@innovaccion.mx
+  Daniela Hernández: viajero05035@innovaccion.mx
+  Andrés 
   
